@@ -1,5 +1,5 @@
 # matematica2_3anos
-# matemática 2º e 3º anos
+
 
 Este diretório contém materiais, atividades e recursos relacionados ao ensino de matemática para o 2º e 3º anos do Ensino Fundamental. O objetivo é apoiar professores e alunos no desenvolvimento das habilidades matemáticas essenciais para essas séries.
 
